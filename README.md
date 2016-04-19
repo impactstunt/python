@@ -1,3 +1,3 @@
 # python
-## Learning Git with Python Programming
+## Learning Git/GitHub with Python Programming
 
