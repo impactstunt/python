@@ -1,2 +1,3 @@
 # python
-Sample Git codes
+## Learning Git with Python Programming
+
